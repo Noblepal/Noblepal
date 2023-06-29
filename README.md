@@ -1,4 +1,4 @@
-<h3 align="center">Welcome</h3>
+<h1>Welcome</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noblepal&show_icons=true&locale=en&layout=compact" alt="noblepal" /></p>
 
