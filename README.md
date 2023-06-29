@@ -2,7 +2,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noblepal&show_icons=true&locale=en&layout=compact" alt="noblepal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noblepal&show_icons=true&locale=en" alt="noblepal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-bay-six-77.vercel.app/api?username=noblepal&show_icons=true&locale=en" alt="noblepal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noblepal&" alt="noblepal" /></p>
 
