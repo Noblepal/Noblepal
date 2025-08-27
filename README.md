@@ -14,14 +14,6 @@
     alt="noblepal"
   />
 </p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=noblepal&"
-    alt="noblepal"
-  />
-</p>
 <hr />
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
